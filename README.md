@@ -21,6 +21,19 @@ Source: [Iris Dataset ](https://www.kaggle.com/datasets/arshid/iris-flower-datas
   - *Iris-virginica*
 
 ---
+## 📌 Task Objectives
+
+- Develop a classification model to accurately identify **Iris flower species**.
+- Utilize a dataset that includes:
+  - Sepal Length
+  - Sepal Width
+  - Petal Length
+  - Petal Width
+- Identify the most significant features influencing classification.
+- Evaluate model performance using appropriate metrics like accuracy, precision, recall, and confusion matrix.
+- Ensure clean, organized code with detailed preprocessing and evaluation steps.
+
+---
 
 ## 🔧 Preprocessing  
 - No missing values detected  
