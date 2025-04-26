@@ -53,10 +53,6 @@ iris-flower-classification/
 │   └── IRIS.csv
 ├── notebooks/
 │   └── iris_classification.ipynb
-├── src/
-│   ├── preprocessing.py
-│   ├── model.py
-│   └── utils.py
 ├── outputs/
 │   ├── knn_model.pkl
 │   └── results.txt
